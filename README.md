@@ -6,6 +6,7 @@ A password generator used to randomly generate a password that meets certain cri
 ## Built with
 * starter HTML
 * starter CSS
+* starter JS
 
 ## Link to webpage
 https://saul10huerta.github.io/password-generator/

@@ -1,5 +1,17 @@
 // Assignment code here
 
+// variables
+var lowerCase = "abcdefghijklmnopqrstuvwxyz";
+var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var number = "0123456789";
+var specChar = " !#$%&'()*+,-./:;<=>?@[]^_`{|}~";
+
+//Functions
+
+function generatePassword () {
+  window.prompt("Please type in your password lenth. Password lenth can only be between 8 and 128 Characters.")
+}
+
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
