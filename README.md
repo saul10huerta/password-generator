@@ -10,8 +10,7 @@ A password generator used to randomly generate a password that meets certain cri
 ## Link to webpage
 https://saul10huerta.github.io/password-generator/
 
-![]()
+![](html-password-gen.png)
 
 ### Contribution
 Made by Saul Huerta
-
